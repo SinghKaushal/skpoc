@@ -1,0 +1,21 @@
+#WeatheTabId {
+	border: solid 2px #b7ddf2;
+	background: #ebf4fb;
+}
+
+#DBDataTabId {
+	background: #ebf4fb;
+}
+
+#center, #left, #right {
+	float: left;
+	height: 100%;
+}
+
+#left, #right {
+	width: 25%;
+}
+
+#center {
+	width: 50%;
+}
